@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HelloCordova</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="fb_app_id">375010693137631</string>
+    <string name="fb_app_name">cl.entel.appswlsdesa</string>
+    <bool name="fb_hybrid_app_events">false</bool>
+</resources>

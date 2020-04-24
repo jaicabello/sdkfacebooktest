@@ -1,0 +1,37 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@4.1.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-inappbrowser": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-inappbrowser@3.2.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-facebookplugin": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/jaicabello/SDK_Facebook.git"
+    },
+    "is_top_level": true,
+    "variables": {
+      "APP_ID": "375010693137631",
+      "APP_NAME": "cl.entel.appswlsdesa"
+    }
+  }
+}

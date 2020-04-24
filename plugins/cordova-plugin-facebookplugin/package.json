@@ -1,0 +1,42 @@
+{
+  "_from": "git+https://github.com/jaicabello/SDK_Facebook.git",
+  "_id": "cordova-plugin-facebookplugin@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-facebookplugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/jaicabello/SDK_Facebook.git",
+    "rawSpec": "https://github.com/jaicabello/SDK_Facebook.git",
+    "saveSpec": "git+https://github.com/jaicabello/SDK_Facebook.git",
+    "fetchSpec": "https://github.com/jaicabello/SDK_Facebook.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/jaicabello/SDK_Facebook.git#68ffe7719000948d2c886479cecf86604fe47b76",
+  "_spec": "https://github.com/jaicabello/SDK_Facebook.git",
+  "_where": "/Users/jcabello/IdeaProjects/sdkfacebooktest",
+  "author": {
+    "name": "Jaime Cabello Venegas"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-facebookplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-facebookplugin",
+  "version": "0.0.1"
+}
